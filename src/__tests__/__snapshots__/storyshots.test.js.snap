@@ -6,6 +6,22 @@ exports[`Storyshots App default 1`] = `
 </div>
 `;
 
+exports[`Storyshots Header default 1`] = `
+<div
+  className="header"
+>
+  <img
+    alt=""
+    className="logo"
+    src="logo.jpg"
+  />
+  <img
+    alt=""
+    src="mainimg.jpg"
+  />
+</div>
+`;
+
 exports[`Storyshots VerticalBox default 1`] = `
 <div>
   <div

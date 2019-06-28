@@ -1,0 +1,10 @@
+@import "../../base";
+
+.header {
+  display: flex;
+  margin: 10px;
+
+  .logo {
+    margin-right: 15px;
+  }
+}
