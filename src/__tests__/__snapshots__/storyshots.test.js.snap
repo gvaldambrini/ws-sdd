@@ -136,6 +136,358 @@ exports[`Storyshots Header default 1`] = `
 </div>
 `;
 
+exports[`Storyshots Home default 1`] = `
+<div
+  className="home"
+>
+  <div
+    className="top"
+  >
+    <div
+      className="news"
+    >
+      <div
+        className="topleft"
+      >
+        <div
+          className="leftTitle"
+        >
+          2019
+        </div>
+        <div
+          className="leftSubtitle"
+        >
+          Bacon ipsum dolor amet
+        </div>
+        <img
+          alt=""
+          src="greca.jpg"
+        />
+        <a
+          className="title"
+          href="/news/1"
+          onClick={[Function]}
+        >
+          Spicy jalapeno bacon
+        </a>
+        <div
+          className="topnewsNewstext"
+        >
+          Spare ribs strip steak salami venison tail cupim
+        pork fatback ham hock pork loin bacon beef, biltong pig rump.
+        </div>
+        <div
+          className="button"
+          onClick={[Function]}
+        >
+          read more
+        </div>
+      </div>
+      <div>
+        <div
+          className="horizontalbox"
+        >
+          <div
+            className="content"
+          >
+            <img
+              alt="Bacon ipsum dolor amet picanha filet mignon"
+              src="img_1.jpg"
+            />
+            <div>
+              <a
+                className="title"
+                href="/news/2"
+                onClick={[Function]}
+              >
+                Bacon ipsum dolor amet picanha filet mignon
+              </a>
+              <div
+                className="text"
+              >
+                Brisket kielbasa ground round burgdoggen. Jerky ham cow pig.
+        Leberkas bacon frankfurter pancetta ham beef rump venison fatback jerky
+        chuck pork chop.
+              </div>
+            </div>
+          </div>
+          <div
+            className="footer"
+          >
+            <img
+              alt=""
+              src="points_h.jpg"
+            />
+            <div
+              className="button"
+              onClick={[Function]}
+            >
+              read more
+            </div>
+          </div>
+        </div>
+        <div
+          className="horizontalbox"
+        >
+          <div
+            className="content"
+          >
+            <img
+              alt="Bacon ipsum dolor amet picanha filet mignon"
+              src="img_2.jpg"
+            />
+            <div>
+              <a
+                className="title"
+                href="/news/3"
+                onClick={[Function]}
+              >
+                Bacon ipsum dolor amet picanha filet mignon
+              </a>
+              <div
+                className="text"
+              >
+                Brisket kielbasa ground round burgdoggen. Jerky ham cow pig.
+        Leberkas bacon frankfurter pancetta ham beef rump venison fatback jerky
+        chuck pork chop.
+              </div>
+            </div>
+          </div>
+          <div
+            className="footer"
+          >
+            <img
+              alt=""
+              src="points_h.jpg"
+            />
+            <div
+              className="button"
+              onClick={[Function]}
+            >
+              read more
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="banner"
+  >
+    <img
+      alt=""
+      src="stripe_top.jpg"
+    />
+    <div
+      className="main"
+    >
+      <img
+        alt=""
+        src="stripe_left.jpg"
+      />
+      <div
+        className="content"
+      >
+        <div
+          className="textContent"
+        >
+          <a
+            className="title"
+            href="/news/4"
+            onClick={[Function]}
+          >
+            BACON IPSUM
+          </a>
+          <div
+            className="text"
+          >
+            Chuck pig andouille, strip steak leberkas spare ribs.
+          </div>
+        </div>
+        <img
+          alt="BACON IPSUM"
+          src="banner.jpg"
+        />
+        <div
+          className="button"
+          onClick={[Function]}
+        >
+          <div
+            className="buttonText"
+          >
+            read more
+          </div>
+        </div>
+      </div>
+    </div>
+    <img
+      alt=""
+      src="stripe_bottom.jpg"
+    />
+  </div>
+  <div
+    className="bottom"
+  >
+    <div
+      className="bottomleft"
+    >
+      <div
+        className="verticalboxLarge"
+      >
+        <img
+          alt="Ground round strip steak chicken, t-bone sirloin chuck"
+          src="img_3.jpg"
+        />
+        <a
+          className="title"
+          href="/news/5"
+          onClick={[Function]}
+        >
+          Ground round strip steak chicken, t-bone sirloin chuck
+        </a>
+        <div
+          className="text"
+        >
+          Strip steak pork chop tail, meatloaf turducken short loin landjaeger bresaola
+        pancetta bacon alcatra.
+        </div>
+      </div>
+      <div
+        className="verticalboxLarge"
+      >
+        <img
+          alt="Ground round strip steak chicken, t-bone sirloin chuck"
+          src="img_4.jpg"
+        />
+        <a
+          className="title"
+          href="/news/6"
+          onClick={[Function]}
+        >
+          Ground round strip steak chicken, t-bone sirloin chuck
+        </a>
+        <div
+          className="text"
+        >
+          Strip steak pork chop tail, meatloaf turducken short loin landjaeger bresaola
+        pancetta bacon alcatra.
+        </div>
+      </div>
+    </div>
+    <div>
+      <div
+        className="horizontalbox"
+      >
+        <div
+          className="content"
+        >
+          <div>
+            <a
+              className="title"
+              href="/news/7"
+              onClick={[Function]}
+            >
+              Bacon ipsum dolor amet porchetta ribeye chicken flank pork
+            </a>
+            <div
+              className="text"
+            >
+              Jowl sirloin ground round, frankfurter fatback spare ribs tenderloin
+        venison leberkas strip steak. Porchetta burgdoggen sirloin alcatra sausage
+        short ribs kielbasa, ribeye flank corned beef fatback turkey swine picanha.
+            </div>
+          </div>
+        </div>
+        <div
+          className="footer"
+        >
+          <img
+            alt=""
+            src="points_h.jpg"
+          />
+          <div
+            className="button"
+            onClick={[Function]}
+          >
+            read more
+          </div>
+        </div>
+      </div>
+      <div
+        className="bottomright"
+      >
+        <div
+          className="verticalbox"
+        >
+          <img
+            alt="Spicy jalapeno bacon ipsum dolor amet pancetta"
+            src="img_5.jpg"
+          />
+          <a
+            className="title"
+            href="/news/8"
+            onClick={[Function]}
+          >
+            Spicy jalapeno bacon ipsum dolor amet pancetta
+          </a>
+          <div
+            className="text"
+          >
+            Chicken prosciutto meatball salami tongue pork loin capicola pork
+        chop kielbasa tenderloin spare ribs.
+          </div>
+          <div
+            className="footer"
+          >
+            <div
+              className="button"
+              onClick={[Function]}
+            >
+              read more
+            </div>
+          </div>
+        </div>
+        <div
+          className="verticalbox"
+        >
+          <img
+            alt="Spicy jalapeno bacon ipsum dolor amet pancetta"
+            src="img_6.jpg"
+          />
+          <a
+            className="title"
+            href="/news/9"
+            onClick={[Function]}
+          >
+            Spicy jalapeno bacon ipsum dolor amet pancetta
+          </a>
+          <div
+            className="text"
+          >
+            Chicken prosciutto meatball salami tongue pork loin capicola pork
+        chop kielbasa tenderloin spare ribs.
+          </div>
+          <div
+            className="footer"
+          >
+            <div
+              className="button"
+              onClick={[Function]}
+            >
+              read more
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <img
+    alt=""
+    src="points.jpg"
+  />
+</div>
+`;
+
 exports[`Storyshots HorizontalBox with image 1`] = `
 <div>
   <div
