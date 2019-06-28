@@ -1,0 +1,63 @@
+@import "../../base";
+
+.banner {
+  display: inline-flex;
+  flex-direction: column;
+
+  .main {
+    width: 670px;
+    display: inline-flex;
+    background-color: #4a4a49;
+  }
+
+  .content {
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+
+  .textContent {
+    max-width: 217px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    // https://css-tricks.com/flexbox-truncated-text/;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .text {
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .button {
+    width: 30px;
+    position: relative;
+    height: 100%;
+    cursor: pointer;
+  }
+
+  .buttonText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    font-size: 14px;
+    white-space: nowrap;
+  }
+}

@@ -6,6 +6,120 @@ exports[`Storyshots App default 1`] = `
 </div>
 `;
 
+exports[`Storyshots Banner default 1`] = `
+<div
+  className="banner"
+>
+  <img
+    alt=""
+    src="stripe_top.jpg"
+  />
+  <div
+    className="main"
+  >
+    <img
+      alt=""
+      src="stripe_left.jpg"
+    />
+    <div
+      className="content"
+    >
+      <div
+        className="textContent"
+      >
+        <a
+          className="title"
+          href="/news/5"
+          onClick={[Function]}
+        >
+          BACON IPSUM
+        </a>
+        <div
+          className="text"
+        >
+          Chuck pig andouille, strip steak leberkas spare ribs.
+        </div>
+      </div>
+      <img
+        alt="BACON IPSUM"
+        src="banner.jpg"
+      />
+      <div
+        className="button"
+        onClick={[Function]}
+      >
+        <div
+          className="buttonText"
+        >
+          read more
+        </div>
+      </div>
+    </div>
+  </div>
+  <img
+    alt=""
+    src="stripe_bottom.jpg"
+  />
+</div>
+`;
+
+exports[`Storyshots Banner long title 1`] = `
+<div
+  className="banner"
+>
+  <img
+    alt=""
+    src="stripe_top.jpg"
+  />
+  <div
+    className="main"
+  >
+    <img
+      alt=""
+      src="stripe_left.jpg"
+    />
+    <div
+      className="content"
+    >
+      <div
+        className="textContent"
+      >
+        <a
+          className="title"
+          href="/news/6"
+          onClick={[Function]}
+        >
+          BACON IPSUM DOLOR AMET TURKEY KIELBASA
+        </a>
+        <div
+          className="text"
+        >
+          Strip steak pork chop tail.
+        </div>
+      </div>
+      <img
+        alt="BACON IPSUM DOLOR AMET TURKEY KIELBASA"
+        src="banner.jpg"
+      />
+      <div
+        className="button"
+        onClick={[Function]}
+      >
+        <div
+          className="buttonText"
+        >
+          read more
+        </div>
+      </div>
+    </div>
+  </div>
+  <img
+    alt=""
+    src="stripe_bottom.jpg"
+  />
+</div>
+`;
+
 exports[`Storyshots Header default 1`] = `
 <div
   className="header"
