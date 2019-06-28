@@ -11,7 +11,7 @@ import img5 from "../../images/img_5.jpg";
 import img6 from "../../images/img_6.jpg";
 import banner from "../../images/banner.jpg";
 
-const homeData = {
+export const homeData = {
   top: {
     left: {
       id: "1",

@@ -1,1 +1,10 @@
 @import "../../base";
+
+.App {
+  border: 1px solid #c0c0c0;
+  display: inline-block;
+
+  .App__top {
+    margin-left: 5px;
+  }
+}
