@@ -1171,6 +1171,27 @@ exports[`Storyshots HorizontalBox without image 1`] = `
 </div>
 `;
 
+exports[`Storyshots News default 1`] = `
+<div
+  className="news"
+>
+  <div
+    className="title"
+  >
+    BACON IPSUM
+  </div>
+  <div>
+    Chuck pig andouille, strip steak leberkas spare ribs.
+  </div>
+  <div
+    className="button"
+    onClick={[Function]}
+  >
+    back
+  </div>
+</div>
+`;
+
 exports[`Storyshots VerticalBox default 1`] = `
 <div>
   <div
