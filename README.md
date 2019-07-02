@@ -1,19 +1,10 @@
-[![Build Status](https://api.travis-ci.org/repositories/gvaldambrini/react-simple-boilerplate.svg)](https://travis-ci.org/gvaldambrini/react-simple-boilerplate)
+### Storybook - an example project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains an example project used to display the capabilities of Storybook.
 
-On the top of CRA, it adds:
- - sass & (S)CSS modules
- - redux & redux-thunk
- - react-router
- - prettier & eslint
- - a travis integration
- - Storybook
-
-
- The filesystem structure is the following:
- - src
-   - components, the "dumb" components
-   - containers, the redux HOC
-   - modules, the redux modules following the [ducks proposal](https://github.com/erikras/ducks-modular-redux)
- - scripts, with a simple cli to create the scaffoling for "dumb" components.
+The repo starts from a [React simple boilerplate](https://github.com/gvaldambrini/react-simple-boilerplate) and then adds all the demo features in 4 steps:
+ - [step0](https://github.com/gvaldambrini/ws-sdd/tree/step0), the example starting point (already containing the redux news module)
+ - [step1](https://github.com/gvaldambrini/ws-sdd/tree/step1), add a first simple component (the page Header) and a more comple one (VerticalBox)
+ - [step2](https://github.com/gvaldambrini/ws-sdd/tree/step2), a slightly complex component rendered in two different stories (the HorizontalBox component)
+ - [step3](https://github.com/gvaldambrini/ws-sdd/tree/step3), add the remaining other components
+ - [step4](https://github.com/gvaldambrini/ws-sdd/tree/step4), add the integration between the UI and the redux modules.
