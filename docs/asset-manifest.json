@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.b3297caf0434acb46c67.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.b3297caf0434acb46c67.bundle.js.map",
+    "runtime~main.js": "/runtime~main.b3297caf0434acb46c67.bundle.js",
+    "runtime~main.js.map": "/runtime~main.b3297caf0434acb46c67.bundle.js.map",
+    "vendors~main.css": "/vendors~main.css",
+    "vendors~main.js": "/vendors~main.b3297caf0434acb46c67.bundle.js",
+    "vendors~main.css.map": "/vendors~main.css.map",
+    "vendors~main.js.map": "/vendors~main.b3297caf0434acb46c67.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.ddb3e10655c571c6e79964f77a17cf65.js": "/precache-manifest.ddb3e10655c571c6e79964f77a17cf65.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/banner.jpg": "/static/media/banner.3dc63a65.jpg",
+    "static/media/greca.jpg": "/static/media/greca.63e7b9ad.jpg",
+    "static/media/img_1.jpg": "/static/media/img_1.2aef043f.jpg",
+    "static/media/img_2.jpg": "/static/media/img_2.10bb1cb8.jpg",
+    "static/media/img_3.jpg": "/static/media/img_3.420e4329.jpg",
+    "static/media/img_4.jpg": "/static/media/img_4.ccab7d6e.jpg",
+    "static/media/img_5.jpg": "/static/media/img_5.2416ecd4.jpg",
+    "static/media/img_6.jpg": "/static/media/img_6.3f65a873.jpg",
+    "static/media/logo.jpg": "/static/media/logo.6b9d2dee.jpg",
+    "static/media/mainimg.jpg": "/static/media/mainimg.aba63b3a.jpg",
+    "static/media/points.jpg": "/static/media/points.cb8eabff.jpg",
+    "static/media/points_h.jpg": "/static/media/points_h.85999d0a.jpg",
+    "static/media/stripe_bottom.jpg": "/static/media/stripe_bottom.d45ea813.jpg",
+    "static/media/stripe_left.jpg": "/static/media/stripe_left.6a7e6ef2.jpg",
+    "static/media/stripe_top.jpg": "/static/media/stripe_top.f912f71d.jpg"
+  }
+}
